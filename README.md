@@ -7,4 +7,4 @@ Interests:
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white
 
 
-![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=merko)
+![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=gruvbox)
