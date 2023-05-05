@@ -19,4 +19,4 @@
 </div>
 </br>
 
-![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=onedark)
+![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=radical)
