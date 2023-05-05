@@ -1,4 +1,4 @@
-### Hello! I'm Larissa 😚
+### <h1>Hello! I'm Larissa 😚</h1>
 
 <h1>What I use on a daily basis:</h1>
 <div class="display: inline_block"></br>
@@ -12,4 +12,4 @@
 </div>
 </br>
 
-![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=gruvbox)
+![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=synthwave)
