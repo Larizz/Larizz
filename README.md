@@ -1,9 +1,9 @@
 ### <h1>Hello! I'm Larissa 😚</h1>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Larizz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Larizz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Larizz&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Larizz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Larizz&layout=compact&langs_count=8&theme=jolly"/>
 </a>
 </p>
 
