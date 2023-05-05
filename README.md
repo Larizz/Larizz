@@ -20,4 +20,8 @@
 </br>
 </br>
 
-![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=radical)
+<div class="display: inline-block">
+ ![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larizz&layout=compact)](https://github.com/Larizz/github-readme-stats)
+</div>
+
