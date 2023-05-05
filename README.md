@@ -18,5 +18,6 @@
   <img align="center" alt="Angular js" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
 </div>
 </br>
+</br>
 
 ![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=radical)
