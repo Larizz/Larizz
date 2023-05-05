@@ -1,6 +1,11 @@
 ### <h1>Hello! I'm Larissa 😚</h1>
 
-![Larizz GitHub stats](https://github-readme-stats.vercel.app/api?username=Larizz&show_icons=true&theme=radical)
+<p align="center">
+<a href="https://github.com/Larizz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Larizz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Larizz&layout=compact&langs_count=8&theme=onedark"/>
+</a>
+</p>
 
 <h1>What I use on a daily basis:</h1>
 <div class="display: inline_block">
